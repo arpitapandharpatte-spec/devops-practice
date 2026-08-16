@@ -1,0 +1,19 @@
+
+learning vim editor
+
+mode1:normal
+mode2:insert
+mode3:command
+
+search command:
+/pattern
+
+
+save:
+:w
+
+save and exit:
+:wq
+
+exit without saving:
+:q!

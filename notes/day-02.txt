@@ -1,0 +1,8 @@
+
+learning vim
+insert 
+command
+search
+linux
+abc
+linux
