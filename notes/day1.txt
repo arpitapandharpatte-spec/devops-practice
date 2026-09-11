@@ -1,3 +1,5 @@
+Day 7: practiced github branches and pull requests.
+
 
 day 1
 today i learned:
